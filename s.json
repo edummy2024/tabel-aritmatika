@@ -1,0 +1,552 @@
+[
+  {
+    "title": "Pertambahan 1",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 1,
+        "result": 2
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 1,
+        "result": 3
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 1,
+        "result": 4
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 1,
+        "result": 5
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 1,
+        "result": 6
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 1,
+        "result": 7
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 1,
+        "result": 8
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 1,
+        "result": 9
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 1,
+        "result": 10
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 1,
+        "result": 11
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 2",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 2,
+        "result": 3
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 2,
+        "result": 4
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 2,
+        "result": 5
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 2,
+        "result": 6
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 2,
+        "result": 7
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 2,
+        "result": 8
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 2,
+        "result": 9
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 2,
+        "result": 10
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 2,
+        "result": 11
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 2,
+        "result": 12
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 3",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 3,
+        "result": 4
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 3,
+        "result": 5
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 3,
+        "result": 6
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 3,
+        "result": 7
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 3,
+        "result": 8
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 3,
+        "result": 9
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 3,
+        "result": 10
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 3,
+        "result": 11
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 3,
+        "result": 12
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 3,
+        "result": 13
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 4",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 4,
+        "result": 5
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 4,
+        "result": 6
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 4,
+        "result": 7
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 4,
+        "result": 8
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 4,
+        "result": 9
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 4,
+        "result": 10
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 4,
+        "result": 11
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 4,
+        "result": 12
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 4,
+        "result": 13
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 4,
+        "result": 14
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 5",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 5,
+        "result": 6
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 5,
+        "result": 7
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 5,
+        "result": 8
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 5,
+        "result": 9
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 5,
+        "result": 10
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 5,
+        "result": 11
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 5,
+        "result": 12
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 5,
+        "result": 13
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 5,
+        "result": 14
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 5,
+        "result": 15
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 6",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 6,
+        "result": 7
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 6,
+        "result": 8
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 6,
+        "result": 9
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 6,
+        "result": 10
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 6,
+        "result": 11
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 6,
+        "result": 12
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 6,
+        "result": 13
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 6,
+        "result": 14
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 6,
+        "result": 15
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 6,
+        "result": 16
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 7",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 7,
+        "result": 8
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 7,
+        "result": 9
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 7,
+        "result": 10
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 7,
+        "result": 11
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 7,
+        "result": 12
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 7,
+        "result": 13
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 7,
+        "result": 14
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 7,
+        "result": 15
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 7,
+        "result": 16
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 7,
+        "result": 17
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 8",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 8,
+        "result": 9
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 8,
+        "result": 10
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 8,
+        "result": 11
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 8,
+        "result": 12
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 8,
+        "result": 13
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 8,
+        "result": 14
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 8,
+        "result": 15
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 8,
+        "result": 16
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 8,
+        "result": 17
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 8,
+        "result": 18
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 9",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 9,
+        "result": 10
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 9,
+        "result": 11
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 9,
+        "result": 12
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 9,
+        "result": 13
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 9,
+        "result": 14
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 9,
+        "result": 15
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 9,
+        "result": 16
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 9,
+        "result": 17
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 9,
+        "result": 18
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 9,
+        "result": 19
+      }
+    ]
+  },
+  {
+    "title": "Pertambahan 10",
+    "data": [
+      {
+        "valueLeft": 1,
+        "valueRight": 10,
+        "result": 11
+      },
+      {
+        "valueLeft": 2,
+        "valueRight": 10,
+        "result": 12
+      },
+      {
+        "valueLeft": 3,
+        "valueRight": 10,
+        "result": 13
+      },
+      {
+        "valueLeft": 4,
+        "valueRight": 10,
+        "result": 14
+      },
+      {
+        "valueLeft": 5,
+        "valueRight": 10,
+        "result": 15
+      },
+      {
+        "valueLeft": 6,
+        "valueRight": 10,
+        "result": 16
+      },
+      {
+        "valueLeft": 7,
+        "valueRight": 10,
+        "result": 17
+      },
+      {
+        "valueLeft": 8,
+        "valueRight": 10,
+        "result": 18
+      },
+      {
+        "valueLeft": 9,
+        "valueRight": 10,
+        "result": 19
+      },
+      {
+        "valueLeft": 10,
+        "valueRight": 10,
+        "result": 20
+      }
+    ]
+  }
+]
