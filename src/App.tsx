@@ -13,7 +13,7 @@ export default function App() {
     } else if (operator === 'kali') {
       return `perkalian ${n}`;;
     } else if (operator === 'kurang') {
-      return `Pembagian ${n}`;
+      return `Pengurangan ${n}`;
     }
   }
 
@@ -48,25 +48,41 @@ export default function App() {
         label: '*',
       },
     ];
+    const valuesLeft = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
-    return Array.from({ length: value }).fill(null)
-      .map((_, index) => {
-        const valuesLeft = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
-        const title = generateTitle(index + 1);
-        const symbolOperator = operators.find((o) => o.value === operator as string)?.label;
+    if (value <= 100) {
+      return Array.from({ length: value }).fill(null)
+        .map((_, index) => {
+          const title = generateTitle(index + 1);
+          const symbolOperator = operators.find((o) => o.value === operator as string)?.label;
 
-        const data = valuesLeft.map((n) => ({
-          valueLeft: n,
-          valueRight: index + 1,
-          operator: symbolOperator,
-          result: calculate(n, (index + 1)),
-        }));
+          const data = valuesLeft.map((n) => ({
+            valueLeft: n,
+            valueRight: index + 1,
+            operator: symbolOperator,
+            result: calculate(n, (index + 1)),
+          }));
 
-        return {
-          title,
-          data,
-        };
-      });
+          return {
+            title,
+            data,
+          };
+        });
+    }
+
+    const title = generateTitle(value);
+    const symbolOperator = operators.find((o) => o.value === operator as string)?.label;
+    const data = valuesLeft.map((n) => ({
+      valueLeft: n,
+      valueRight: value,
+      operator: symbolOperator,
+      result: calculate(n, value),
+    }));
+
+    return [{
+      title,
+      data,
+    }];
   }
 
   function onSubmit(e: React.FormEvent<HTMLFormElement>) {
@@ -75,8 +91,8 @@ export default function App() {
     const limit = Number(formData.get('limit'));
     const operator = formData.get('operator');
 
-    if (limit > 100) {
-      alert('value must be 0 - 100');
+    if (limit > 1000000000) {
+      alert('value must be 0 - 1.000.000.000');
       return;
     }
 
